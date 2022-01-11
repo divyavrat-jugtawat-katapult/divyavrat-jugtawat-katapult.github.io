@@ -7,7 +7,7 @@
   "minCartValue": "300",
   "paymentPath": "https://lull.com/checkout/payment",
   "relativePath": "payment",
-  "retailer_id": "27"
+  "retailer_id": "27",
   "name":"testing merchant",
   "jqueryRequired": false,
   "merchantScript":"https://divyavrat-jugtawat-katapult.github.io/lull.js"
