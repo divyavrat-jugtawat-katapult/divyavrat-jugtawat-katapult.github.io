@@ -1,8 +1,14 @@
 {
+  "active": true,
+  "defaultPath": "/",
+  "domainName": "https://lull.com",
+  "maxCartValue": "4500",
+  "merchantToken": "9de1d413f9273b240c7df127ba7e277d8f943599",
+  "minCartValue": "300",
+  "paymentPath": "https://lull.com/checkout/payment",
+  "relativePath": "payment",
+  "retailer_id": "27"
   "name":"testing merchant",
-  "min": "300",
-  "max": "4500",
-  "origin": "https://www.site.com",
-  "jqueryExists": false,
-  "jsFile":"https://divyavrat-jugtawat-katapult.github.io/lull.js"
+  "jqueryRequired": false,
+  "merchantScript":"https://divyavrat-jugtawat-katapult.github.io/lull.js"
 }
